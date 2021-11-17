@@ -2,7 +2,7 @@
     | __|| __|| |   | _ \ / _ \  / __|| |/ /
     | _| | _| | |__ |   /| (_) || (__ |   < 
     |_|  |___||____||_|_\ \___/  \___||_|\_\
-CPP|PYTHON|DOCKER|ROS2|TENSORFLOW
+    **CPP**|PYTHON|DOCKER|ROS2|TENSORFLOW
 
 <!--
 **felrock/felrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
