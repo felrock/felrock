@@ -1,8 +1,4 @@
-     ___  ___  _     ___   ___    ___  _  __
-    | __|| __|| |   | _ \ / _ \  / __|| |/ /
-    | _| | _| | |__ |   /| (_) || (__ |   < 
-    |_|  |___||____||_|_\ \___/  \___||_|\_\
-    C/CPP|PYTHON|DOCKER|ROS2|K8S|TENSORFLOW
+![felrock](felrock)
 
 <!--
 **felrock/felrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
